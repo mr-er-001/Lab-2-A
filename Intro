@@ -1,8 +1,17 @@
 Console.WriteLine("Muhammad Ehsan");
 Console.WriteLine("24-ST-033");
+2nd-semester
 Console.WriteLine("Tarjama Tul Quran");
 Console.WriteLine("English");
 Console.WriteLine("Statistics");
 Console.WriteLine("SDLC");
 Console.WriteLine("OOP");
 Console.WriteLine("Discrete structures");
+
+Console.WriteLine("Computer Programming");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Physics");
+Console.WriteLine("It Skills");
+Console.WriteLine("Calculus");
+Console.WriteLine("EHS");
+1st-Semester
