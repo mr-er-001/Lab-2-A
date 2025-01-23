@@ -1,2 +1,8 @@
 Console.WriteLine("Muhammad Ehsan");
 Console.WriteLine("24-ST-033");
+Console.WriteLine("Computer Programming");
+Console.WriteLine("Islamiat");
+Console.WriteLine("Physics");
+Console.WriteLine("It Skills");
+Console.WriteLine("Calculus");
+Console.WriteLine("EHS");
